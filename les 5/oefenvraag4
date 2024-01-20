@@ -1,0 +1,4 @@
+prijs1 = float(1.95)
+prijs2 = float(2.25)
+totaal = prijs1 + prijs2
+print(totaal)
